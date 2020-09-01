@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansActorService", "OrleansActorService\OrleansActorService.csproj", "{F5E3673B-8C96-4683-8F80-6BE644DB8AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansActorService.Interface", "OrleansActorService.Interface\OrleansActorService.Interface.csproj", "{AED66535-C208-434F-B138-FF79B5394F6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E3673B-8C96-4683-8F80-6BE644DB8AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E3673B-8C96-4683-8F80-6BE644DB8AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E3673B-8C96-4683-8F80-6BE644DB8AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E3673B-8C96-4683-8F80-6BE644DB8AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED66535-C208-434F-B138-FF79B5394F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED66535-C208-434F-B138-FF79B5394F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED66535-C208-434F-B138-FF79B5394F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED66535-C208-434F-B138-FF79B5394F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512E9C95-DDAB-470D-A69B-F39B9CAED901}
+	EndGlobalSection
+EndGlobal
